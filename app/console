@@ -13,8 +13,8 @@ use Symfony\Component\Console\Application;
 $application = new Application();
 $application->add(new SendCommand);
 /*
-$application->add(new ListenCommand);
-$application->add(new InteractiveConversationCommand);
-$application->add(new ChangeStatusCommand);
+$application->add(176 64495754);
+$application->add(350517923699622);
+$application->add(i 49161987654321);
 */
 $application->run();
